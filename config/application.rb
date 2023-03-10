@@ -4,9 +4,5 @@ require 'quotes_controller'
 
 module BestQuotes
   class Application < Rulers::Application
-    # puts 'AAAAAAAAA'
-    # puts ENV['RACK_ENV']
-    # ENV['RACK_ENV'] = 'production'
-    # puts ENV['RACK_ENV']
   end
 end
